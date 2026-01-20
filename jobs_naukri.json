@@ -1,0 +1,702 @@
+[
+  {
+    "title": "Python Developer - Gurgaon #1",
+    "company": "TechCorp Solutions Pvt Ltd",
+    "location": "Cyber City, Gurgaon",
+    "salary": "\u20b98-\u20b914 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "2 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-1"
+  },
+  {
+    "title": "Python Developer - Gurgaon #2",
+    "company": "InnovateX Solutions Pvt Ltd",
+    "location": "Udyog Vihar, Gurgaon",
+    "salary": "\u20b98-\u20b914 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "2 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-2"
+  },
+  {
+    "title": "Python Developer - Gurgaon #3",
+    "company": "DataSync Solutions Pvt Ltd",
+    "location": "Sector 44, Gurgaon",
+    "salary": "\u20b98-\u20b914 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "2 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-3"
+  },
+  {
+    "title": "Python Developer - Gurgaon #4",
+    "company": "CodeZap Solutions Pvt Ltd",
+    "location": "Golf Course Road, Gurgaon",
+    "salary": "\u20b98-\u20b914 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "2 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-4"
+  },
+  {
+    "title": "Python Developer - Gurgaon #5",
+    "company": "WebNinja Solutions Pvt Ltd",
+    "location": "Cyber City, Gurgaon",
+    "salary": "\u20b98-\u20b914 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "2 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-5"
+  },
+  {
+    "title": "Python Developer - Gurgaon #6",
+    "company": "GrowEasy Solutions Pvt Ltd",
+    "location": "Udyog Vihar, Gurgaon",
+    "salary": "\u20b98-\u20b914 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "2 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-6"
+  },
+  {
+    "title": "Python Developer - Gurgaon #7",
+    "company": "ByteBridge Solutions Pvt Ltd",
+    "location": "Sector 44, Gurgaon",
+    "salary": "\u20b98-\u20b914 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "2 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-7"
+  },
+  {
+    "title": "Python Developer - Gurgaon #8",
+    "company": "TechCorp Solutions Pvt Ltd",
+    "location": "Golf Course Road, Gurgaon",
+    "salary": "\u20b98-\u20b914 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "2 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-8"
+  },
+  {
+    "title": "Python Developer - Gurgaon #9",
+    "company": "InnovateX Solutions Pvt Ltd",
+    "location": "Cyber City, Gurgaon",
+    "salary": "\u20b98-\u20b914 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "2 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-9"
+  },
+  {
+    "title": "Python Developer - Gurgaon #10",
+    "company": "DataSync Solutions Pvt Ltd",
+    "location": "Udyog Vihar, Gurgaon",
+    "salary": "\u20b98-\u20b914 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "2 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-10"
+  },
+  {
+    "title": "Python Developer - Gurgaon #11",
+    "company": "CodeZap Solutions Pvt Ltd",
+    "location": "Sector 44, Gurgaon",
+    "salary": "\u20b99-\u20b915 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "3 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-11"
+  },
+  {
+    "title": "Python Developer - Gurgaon #12",
+    "company": "WebNinja Solutions Pvt Ltd",
+    "location": "Golf Course Road, Gurgaon",
+    "salary": "\u20b99-\u20b915 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "3 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-12"
+  },
+  {
+    "title": "Python Developer - Gurgaon #13",
+    "company": "GrowEasy Solutions Pvt Ltd",
+    "location": "Cyber City, Gurgaon",
+    "salary": "\u20b99-\u20b915 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "3 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-13"
+  },
+  {
+    "title": "Python Developer - Gurgaon #14",
+    "company": "ByteBridge Solutions Pvt Ltd",
+    "location": "Udyog Vihar, Gurgaon",
+    "salary": "\u20b99-\u20b915 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "3 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-14"
+  },
+  {
+    "title": "Python Developer - Gurgaon #15",
+    "company": "TechCorp Solutions Pvt Ltd",
+    "location": "Sector 44, Gurgaon",
+    "salary": "\u20b99-\u20b915 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "3 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-15"
+  },
+  {
+    "title": "Python Developer - Gurgaon #16",
+    "company": "InnovateX Solutions Pvt Ltd",
+    "location": "Golf Course Road, Gurgaon",
+    "salary": "\u20b99-\u20b915 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "3 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-16"
+  },
+  {
+    "title": "Python Developer - Gurgaon #17",
+    "company": "DataSync Solutions Pvt Ltd",
+    "location": "Cyber City, Gurgaon",
+    "salary": "\u20b99-\u20b915 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "3 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-17"
+  },
+  {
+    "title": "Python Developer - Gurgaon #18",
+    "company": "CodeZap Solutions Pvt Ltd",
+    "location": "Udyog Vihar, Gurgaon",
+    "salary": "\u20b99-\u20b915 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "3 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-18"
+  },
+  {
+    "title": "Python Developer - Gurgaon #19",
+    "company": "WebNinja Solutions Pvt Ltd",
+    "location": "Sector 44, Gurgaon",
+    "salary": "\u20b99-\u20b915 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "3 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-19"
+  },
+  {
+    "title": "Python Developer - Gurgaon #20",
+    "company": "GrowEasy Solutions Pvt Ltd",
+    "location": "Golf Course Road, Gurgaon",
+    "salary": "\u20b99-\u20b915 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "3 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-20"
+  },
+  {
+    "title": "Python Developer - Gurgaon #21",
+    "company": "ByteBridge Solutions Pvt Ltd",
+    "location": "Cyber City, Gurgaon",
+    "salary": "\u20b910-\u20b916 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "4 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-21"
+  },
+  {
+    "title": "Python Developer - Gurgaon #22",
+    "company": "TechCorp Solutions Pvt Ltd",
+    "location": "Udyog Vihar, Gurgaon",
+    "salary": "\u20b910-\u20b916 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "4 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-22"
+  },
+  {
+    "title": "Python Developer - Gurgaon #23",
+    "company": "InnovateX Solutions Pvt Ltd",
+    "location": "Sector 44, Gurgaon",
+    "salary": "\u20b910-\u20b916 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "4 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-23"
+  },
+  {
+    "title": "Python Developer - Gurgaon #24",
+    "company": "DataSync Solutions Pvt Ltd",
+    "location": "Golf Course Road, Gurgaon",
+    "salary": "\u20b910-\u20b916 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "4 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-24"
+  },
+  {
+    "title": "Python Developer - Gurgaon #25",
+    "company": "CodeZap Solutions Pvt Ltd",
+    "location": "Cyber City, Gurgaon",
+    "salary": "\u20b910-\u20b916 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "4 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-25"
+  },
+  {
+    "title": "Python Developer - Gurgaon #26",
+    "company": "WebNinja Solutions Pvt Ltd",
+    "location": "Udyog Vihar, Gurgaon",
+    "salary": "\u20b910-\u20b916 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "4 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-26"
+  },
+  {
+    "title": "Python Developer - Gurgaon #27",
+    "company": "GrowEasy Solutions Pvt Ltd",
+    "location": "Sector 44, Gurgaon",
+    "salary": "\u20b910-\u20b916 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "4 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-27"
+  },
+  {
+    "title": "Python Developer - Gurgaon #28",
+    "company": "ByteBridge Solutions Pvt Ltd",
+    "location": "Golf Course Road, Gurgaon",
+    "salary": "\u20b910-\u20b916 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "4 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-28"
+  },
+  {
+    "title": "Python Developer - Gurgaon #29",
+    "company": "TechCorp Solutions Pvt Ltd",
+    "location": "Cyber City, Gurgaon",
+    "salary": "\u20b910-\u20b916 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "4 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-29"
+  },
+  {
+    "title": "Python Developer - Gurgaon #30",
+    "company": "InnovateX Solutions Pvt Ltd",
+    "location": "Udyog Vihar, Gurgaon",
+    "salary": "\u20b910-\u20b916 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "4 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-30"
+  },
+  {
+    "title": "Python Developer - Gurgaon #31",
+    "company": "DataSync Solutions Pvt Ltd",
+    "location": "Sector 44, Gurgaon",
+    "salary": "\u20b911-\u20b917 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "5 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-31"
+  },
+  {
+    "title": "Python Developer - Gurgaon #32",
+    "company": "CodeZap Solutions Pvt Ltd",
+    "location": "Golf Course Road, Gurgaon",
+    "salary": "\u20b911-\u20b917 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "5 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-32"
+  },
+  {
+    "title": "Python Developer - Gurgaon #33",
+    "company": "WebNinja Solutions Pvt Ltd",
+    "location": "Cyber City, Gurgaon",
+    "salary": "\u20b911-\u20b917 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "5 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-33"
+  },
+  {
+    "title": "Python Developer - Gurgaon #34",
+    "company": "GrowEasy Solutions Pvt Ltd",
+    "location": "Udyog Vihar, Gurgaon",
+    "salary": "\u20b911-\u20b917 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "5 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-34"
+  },
+  {
+    "title": "Python Developer - Gurgaon #35",
+    "company": "ByteBridge Solutions Pvt Ltd",
+    "location": "Sector 44, Gurgaon",
+    "salary": "\u20b911-\u20b917 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "5 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-35"
+  },
+  {
+    "title": "Python Developer - Gurgaon #36",
+    "company": "TechCorp Solutions Pvt Ltd",
+    "location": "Golf Course Road, Gurgaon",
+    "salary": "\u20b911-\u20b917 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "5 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-36"
+  },
+  {
+    "title": "Python Developer - Gurgaon #37",
+    "company": "InnovateX Solutions Pvt Ltd",
+    "location": "Cyber City, Gurgaon",
+    "salary": "\u20b911-\u20b917 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "5 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-37"
+  },
+  {
+    "title": "Python Developer - Gurgaon #38",
+    "company": "DataSync Solutions Pvt Ltd",
+    "location": "Udyog Vihar, Gurgaon",
+    "salary": "\u20b911-\u20b917 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "5 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-38"
+  },
+  {
+    "title": "Python Developer - Gurgaon #39",
+    "company": "CodeZap Solutions Pvt Ltd",
+    "location": "Sector 44, Gurgaon",
+    "salary": "\u20b911-\u20b917 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "5 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-39"
+  },
+  {
+    "title": "Python Developer - Gurgaon #40",
+    "company": "WebNinja Solutions Pvt Ltd",
+    "location": "Golf Course Road, Gurgaon",
+    "salary": "\u20b911-\u20b917 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "5 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-40"
+  },
+  {
+    "title": "Python Developer - Gurgaon #41",
+    "company": "GrowEasy Solutions Pvt Ltd",
+    "location": "Cyber City, Gurgaon",
+    "salary": "\u20b912-\u20b918 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "6 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-41"
+  },
+  {
+    "title": "Python Developer - Gurgaon #42",
+    "company": "ByteBridge Solutions Pvt Ltd",
+    "location": "Udyog Vihar, Gurgaon",
+    "salary": "\u20b912-\u20b918 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "6 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-42"
+  },
+  {
+    "title": "Python Developer - Gurgaon #43",
+    "company": "TechCorp Solutions Pvt Ltd",
+    "location": "Sector 44, Gurgaon",
+    "salary": "\u20b912-\u20b918 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "6 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-43"
+  },
+  {
+    "title": "Python Developer - Gurgaon #44",
+    "company": "InnovateX Solutions Pvt Ltd",
+    "location": "Golf Course Road, Gurgaon",
+    "salary": "\u20b912-\u20b918 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "6 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-44"
+  },
+  {
+    "title": "Python Developer - Gurgaon #45",
+    "company": "DataSync Solutions Pvt Ltd",
+    "location": "Cyber City, Gurgaon",
+    "salary": "\u20b912-\u20b918 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "6 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-45"
+  },
+  {
+    "title": "Python Developer - Gurgaon #46",
+    "company": "CodeZap Solutions Pvt Ltd",
+    "location": "Udyog Vihar, Gurgaon",
+    "salary": "\u20b912-\u20b918 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "6 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-46"
+  },
+  {
+    "title": "Python Developer - Gurgaon #47",
+    "company": "WebNinja Solutions Pvt Ltd",
+    "location": "Sector 44, Gurgaon",
+    "salary": "\u20b912-\u20b918 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "6 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-47"
+  },
+  {
+    "title": "Python Developer - Gurgaon #48",
+    "company": "GrowEasy Solutions Pvt Ltd",
+    "location": "Golf Course Road, Gurgaon",
+    "salary": "\u20b912-\u20b918 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "6 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-48"
+  },
+  {
+    "title": "Python Developer - Gurgaon #49",
+    "company": "ByteBridge Solutions Pvt Ltd",
+    "location": "Cyber City, Gurgaon",
+    "salary": "\u20b912-\u20b918 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "6 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-49"
+  },
+  {
+    "title": "Python Developer - Gurgaon #50",
+    "company": "TechCorp Solutions Pvt Ltd",
+    "location": "Udyog Vihar, Gurgaon",
+    "salary": "\u20b912-\u20b918 LPA",
+    "skills": [
+      "Python",
+      "Django",
+      "React"
+    ],
+    "experience": "6 years",
+    "posted": "Jan 2026",
+    "url": "https://naukri.com/job-50"
+  }
+]
