@@ -13,22 +13,30 @@
         <div class="job">Python Developer - Remote - ₹6LPA <button onclick="sendUpdate('New applicant!')">Notify</button></div>
         <div class="job">Django Fullstack - Gurgaon - ₹8LPA <button onclick="sendUpdate('Interview scheduled!')">Notify</button></div>
     </div>
+<script>
+const chatSocket = new WebSocket('ws://' + window.location.host + '/ws/jobs/');
 
-    <script>
-        const socket = new WebSocket('ws://' + window.location.host + '/ws/jobs/');
-        
-        socket.onmessage = function(e) {
-            const data = JSON.parse(e.data);
-            const jobsDiv = document.getElementById('jobs');
-            const updateDiv = document.createElement('div');
-            updateDiv.className = 'job update';
-            updateDiv.innerHTML = `🔔 ${data.message} (${new Date().toLocaleTimeString()})`;
-            jobsDiv.appendChild(updateDiv);
-        };
-        
-        function sendUpdate(message) {
-            socket.send(JSON.stringify({message: message}));
-        }
-    </script>
-</body>
+chatSocket.onmessage = function(e) {
+    const data = JSON.parse(e.data);
+    showNotification(data.message);
+};
+
+chatSocket.onclose = function(e) {
+    console.error('Chat socket closed unexpectedly');
+};
+
+function notifyApplicant(jobTitle) {
+    chatSocket.send(JSON.stringify({
+        'message': `🔔 New applicant! (${new Date().toLocaleTimeString()}) - ${jobTitle}`
+    }));
+    document.querySelector('#notification-area').innerHTML += 
+        `<div class="alert alert-success alert-dismissible fade show" role="alert">
+            Sending notification for ${jobTitle}...
+            <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+        </div>`;
+}
+</script>
+
+
+    </body>
 </html>
