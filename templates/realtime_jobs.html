@@ -15,25 +15,17 @@
     </div>
 <script>
 const chatSocket = new WebSocket('ws://' + window.location.host + '/ws/jobs/');
-
+chatSocket.onopen = function(e) { console.log('WebSocket connected!'); };
 chatSocket.onmessage = function(e) {
     const data = JSON.parse(e.data);
-    showNotification(data.message);
+    // Show green notification
+    document.querySelector('#notification-area').innerHTML += 
+        `<div class="alert alert-success">🔔 ${data.message}</div>`;
 };
-
-chatSocket.onclose = function(e) {
-    console.error('Chat socket closed unexpectedly');
-};
-
 function notifyApplicant(jobTitle) {
     chatSocket.send(JSON.stringify({
         'message': `🔔 New applicant! (${new Date().toLocaleTimeString()}) - ${jobTitle}`
     }));
-    document.querySelector('#notification-area').innerHTML += 
-        `<div class="alert alert-success alert-dismissible fade show" role="alert">
-            Sending notification for ${jobTitle}...
-            <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
-        </div>`;
 }
 </script>
 
